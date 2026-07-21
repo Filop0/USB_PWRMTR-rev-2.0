@@ -1,20 +1,20 @@
 History/
 Project Logs for USB_power_meter_v2/
 Project Outputs for USB_power_meter_v2/
-__Previews/
-ICs.PcbLib
-ICs.SchLib
-ESD_Protection.PcbLib
-ESD_Protection.SchLib
-LDO.PcbLib
-LDO.SchLib
-Opamp_ICs.PcbLib
-Opamp_ICs.SchLib
-Optoelectronics.PcbLib
-Optoelectronics.SchLib
-STM32.PcbLib
-STM32.SchLib
-Switche.SchLib
-Switches.PcbLib
-USB_connectors.PcbLib
-USB_connectors.SchLib
+# __Previews/
+# ICs.PcbLib
+# ICs.SchLib
+# ESD_Protection.PcbLib
+# ESD_Protection.SchLib
+# LDO.PcbLib
+# LDO.SchLib
+# Opamp_ICs.PcbLib
+# Opamp_ICs.SchLib
+# Optoelectronics.PcbLib
+# Optoelectronics.SchLib
+# STM32.PcbLib
+# STM32.SchLib
+# Switche.SchLib
+# Switches.PcbLib
+# USB_connectors.PcbLib
+# USB_connectors.SchLib
